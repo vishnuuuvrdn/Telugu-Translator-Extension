@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Telugu-Translator",
+  "description": "Translate any word from any language to English and Telugu. Designed by Vishnuuu 💫",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "permissions": ["activeTab"]
+}
