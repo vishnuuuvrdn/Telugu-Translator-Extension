@@ -1,33 +1,60 @@
-# Telugu Translator Extension
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Telugu Translator Extension</title>
+</head>
+<body>
 
-**A simple browser extension that translates text into Telugu.**
+  <h1>Telugu Translator Extension</h1>
 
-> _This extension is created for my personal use._
+  <p>
+    <strong>A simple browser extension that translates text into Telugu.</strong>
+  </p>
 
----
+  <p>
+    <em>`This Extension is created for My Personal Use!`</em>
+  </p>
 
-## Features
+  <hr />
 
-- Translate any text into **Telugu**
-- Clean and easy-to-use popup interface
-- Works directly inside your browser
+  <h2>Features</h2>
+  <ul>
+    <li><strong>Translate any text into Telugu.</strong></li>
+    <li>Clean and easy-to-use popup interface.</li>
+    <li>Works directly inside your browser.</li>
+  </ul>
 
----
+  <h2>How to Install</h2>
+  <ol>
+    <li>Download or clone this repository:</li>
+  </ol>
 
-## How to Install
+  <pre>
+    <code>
+git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
+    </code>
+  </pre>
 
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
-### Notes
-- This follows GitHub Markdown best practices.
-- Clean headings, spacing, and code blocks are preserved.
-- Ready to paste directly into `README.md`.
+  <ol start="2">
+    <li>Open your browser’s Extensions page.</li>
+    <li>Enable <strong>Developer Mode</strong>.</li>
+    <li>Click <strong>Load unpacked</strong> and select this folder.</li>
+  </ol>
 
-If you want:
-- a **more professional open-source tone**
-- **screenshots section**
-- **badges (MIT, Chrome, Version, etc.)**
-- or **conversion into HTML / React documentation**
+  <h2>How to Use</h2>
+  <ul>
+    <li>Click the extension icon.</li>
+    <li>Type or paste the text you want to translate.</li>
+    <li>Press <strong>Translate</strong>.</li>
+    <li>View the translated Telugu output instantly.</li>
+  </ul>
 
-tell me and I’ll do it precisely.
+  <h2>Contributing</h2>
+  <p>Pull requests and suggestions are welcome.</p>
+
+  <h2>License</h2>
+  <p>MIT License</p>
+
+</body>
+</html>
