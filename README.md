@@ -20,13 +20,11 @@
   <li>Download or clone this repository:</li>
 </ol>
 
-  <pre>
-    <code>
-git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
-    </code>
-  </pre>
-
-  <ol start="2">
+<pre>
+  <code>git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git</code>
+</pre>
+  
+<ol start="2">
     <li>Open your browser’s Extensions page.</li>
     <li>Enable <strong>Developer Mode</strong>.</li>
     <li>Click <strong>Load unpacked</strong> and select this folder.</li>
