@@ -19,9 +19,6 @@
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
-
-
-
 ### Notes
 - This follows GitHub Markdown best practices.
 - Clean headings, spacing, and code blocks are preserved.
