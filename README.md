@@ -4,9 +4,7 @@
   <strong>A simple browser extension that translates text into Telugu.</strong>
 </p>
 
-<p>
-   <em>`This Extension is created for My Personal Use!`</em>
-</p>
+<em>`This Extension is created for My Personal Use!`</em>
 
 <hr />
 
