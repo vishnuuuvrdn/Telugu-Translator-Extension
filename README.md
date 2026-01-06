@@ -1,34 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Telugu Translator Extension</title>
-</head>
-<body>
+<h1>Telugu Translator Extension</h1>
 
-  <h1>Telugu Translator Extension</h1>
+<p>
+  <strong>A simple browser extension that translates text into Telugu.</strong>
+</p>
 
-  <p>
-    <strong>A simple browser extension that translates text into Telugu.</strong>
-  </p>
+<p>
+   <em>`This Extension is created for My Personal Use!`</em>
+</p>
 
-  <p>
-    <em>`This Extension is created for My Personal Use!`</em>
-  </p>
+<hr />
 
-  <hr />
+<h2>Features</h2>
+<ul>
+  <li><strong>Translate any text into Telugu.</strong></li>
+  <li>Clean and easy-to-use popup interface.</li>
+  <li>Works directly inside your browser.</li>
+</ul>
 
-  <h2>Features</h2>
-  <ul>
-    <li><strong>Translate any text into Telugu.</strong></li>
-    <li>Clean and easy-to-use popup interface.</li>
-    <li>Works directly inside your browser.</li>
-  </ul>
-
-  <h2>How to Install</h2>
-  <ol>
-    <li>Download or clone this repository:</li>
-  </ol>
+<h2>How to Install</h2>
+<ol>
+  <li>Download or clone this repository:</li>
+</ol>
 
   <pre>
     <code>
@@ -55,6 +47,3 @@ git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
 
   <h2>License</h2>
   <p>MIT License</p>
-
-</body>
-</html>
