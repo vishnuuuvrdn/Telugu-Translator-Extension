@@ -1,3 +1,36 @@
-<h1>Telugu Translator Extension</h1> <p><strong>A simple browser extension that translates text into Telugu.</strong>
+# Telugu Translator Extension
 
-<em>`This Extension is created for My Personal Use!`</em></p> <hr/> <h2>Features</h2> <ul> <li><strong>Translate any text into Telugu.</strong></li> <li>Clean and easy-to-use popup interface.</li> <li>Works directly inside your browser.</li> </ul> <h2>How to Install</h2> <ol> <li>Download or clone this repository:</li> </ol> <pre> <code>git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git</code> </pre> <ol start="2"> <li>Open your browser’s Extensions page.</li> <li>Enable <strong>Developer Mode</strong>.</li> <li>Click <strong>Load unpacked</strong> and select this folder.</li> </ol> <h2>How to Use</h2> <ul> <li>Click the extension icon.</li> <li>Type or paste the text you want to translate.</li> <li>Press <strong>Translate</strong>.</li> <li>View the translated Telugu output instantly.</li> </ul> <h2>Contributing</h2> <p>Pull requests and suggestions are welcome.</p> <h2>License</h2> <p>MIT License</p>
+**A simple browser extension that translates text into Telugu.**
+
+> _This extension is created for my personal use._
+
+---
+
+## Features
+
+- Translate any text into **Telugu**
+- Clean and easy-to-use popup interface
+- Works directly inside your browser
+
+---
+
+## How to Install
+
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/vishnuuuvrdn/Telugu-Translator-Extension.git
+
+
+
+### Notes
+- This follows GitHub Markdown best practices.
+- Clean headings, spacing, and code blocks are preserved.
+- Ready to paste directly into `README.md`.
+
+If you want:
+- a **more professional open-source tone**
+- **screenshots section**
+- **badges (MIT, Chrome, Version, etc.)**
+- or **conversion into HTML / React documentation**
+
+tell me and I’ll do it precisely.
