@@ -6,7 +6,6 @@
 
 <em>`This Extension is created for My Personal Use!`</em>
 
-<hr />
 
 <h2>Features</h2>
 <ul>
