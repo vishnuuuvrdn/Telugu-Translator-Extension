@@ -3,7 +3,6 @@ const input = document.getElementById("inputText");
 const engOut = document.getElementById("englishMeaning");
 const telOut = document.getElementById("teluguMeaning");
 
-// Google Dictionary API (Unofficial but reliable)
 async function fetchOxfordLikeMeaning(word) {
   try {
     const response = await fetch(
@@ -14,12 +13,10 @@ async function fetchOxfordLikeMeaning(word) {
     if (!Array.isArray(data) || !data[0]?.meanings?.length)
       throw new Error("No definition found.");
 
-    // Find the definition that fits "look quickly and furtively..." type
     const definitions = data[0].meanings
       .map(m => m.definitions.map(d => d.definition))
       .flat();
 
-    // Choose the most human-action-related one if multiple
     const bestDef = definitions.find(d =>
       /look|see|view|watch|observe/.test(d.toLowerCase())
     ) || definitions[0];
@@ -35,7 +32,6 @@ async function fetchOxfordLikeMeaning(word) {
   }
 }
 
-// Telugu translation (using Google Translate)
 async function fetchTelugu(word) {
   try {
     const res = await fetch(
@@ -70,3 +66,4 @@ btn.addEventListener("click", async () => {
     telOut.classList.add("show");
   }, 150);
 });
+
