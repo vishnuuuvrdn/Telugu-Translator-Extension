@@ -1,10 +1,8 @@
 <h1>Telugu Translator Extension</h1>
 
 <p>
-  <strong>A simple browser extension that translates text into Telugu.</strong>
+  <strong>A simple Chrome extension that translates text into Telugu.</strong>
 </p>
-
-<em>`This Extension is created for My Personal Use!`</em>
 
 
 <h2>Features</h2>
